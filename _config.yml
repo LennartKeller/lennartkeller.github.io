@@ -21,7 +21,7 @@
 title: Lennarts Blog
 email: lennartkeller@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Research assistant && Master's student @ JMU-Würzburg
+  Research assistant && Master's student | DigitalHumanities@JMU-Würzburg
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
