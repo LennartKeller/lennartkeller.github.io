@@ -30,32 +30,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #github_username:  LennartKeller
 
 # Build settings
-theme: plainwhite
-remote_theme: samarsault/plainwhite-jekyll # for github pages
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
-# plainwhite settings
-plainwhite:
-  sitemap: true
-  
-  name: Lennart Keller
-  tagline: |
-  Master student.
-
-  Research assistant.
-  
-  @UniWue.
-  
-  date_format: "%b %-d, %Y"
-
-  social_links:
-    #twitter: samarsault
-    github: LennartKeller
-    #linkedIn: # format: locale/username
-    #portfolio_image:  "assets/portfolio.png"
-    show_excerpts: true
-    #dark_mode: true
+remote-theme: ngzhio/jekyll-theme-hamilton
 
 
 # Exclude from processing.
