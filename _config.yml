@@ -40,7 +40,12 @@ plainwhite:
   sitemap: true
   
   name: Lennart Keller
-  tagline: Student | Research assistant
+  tagline: |
+  Master student.
+
+  Research assistant.
+  
+  @UniWue.
   
   date_format: "%b %-d, %Y"
 
