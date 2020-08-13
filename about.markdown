@@ -14,8 +14,8 @@ Including:
 * active learning
 * (extreme) multilabel classification
 * developing web applications
-* organize and transform XML data
-* annotate metaphors in german literature
+* organize and transform XML data, using a wild bunch of x-technologies
+* metaphore annotation in german literature
 * teaching and creating tutorials for Digital Humanities lectures
 
 Currently my main interests (and goals) are:
