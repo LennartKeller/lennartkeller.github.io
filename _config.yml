@@ -49,8 +49,8 @@ plainwhite:
     github: LennartKeller
     #linkedIn: # format: locale/username
     #portfolio_image:  "assets/portfolio.png"
-  
-    dark_mode: true
+    show_excerpts: true
+    #dark_mode: true
 
 
 # Exclude from processing.
