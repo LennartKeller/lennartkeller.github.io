@@ -31,6 +31,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: plainwhite
+remote_theme: samarsault/plainwhite-jekyll # for github pages
 plugins:
   - jekyll-feed
 
