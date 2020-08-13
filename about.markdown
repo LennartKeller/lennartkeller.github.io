@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi I'm Lennart Keller and I work as a research assisitant at the chair of Computerphilologie at the JMU Würzburg. Also I'm a Master's Student in Digital Humanities.
 
-While I was a undergraduate as was very lucky to get the oppurtunities to work on a variety of fields as a student assitant.
+While I was a undergraduate I was very lucky to get the oppurtunities to work on a variety of fields as a student assitant.
 
 Including:
 
